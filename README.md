@@ -20,7 +20,7 @@ A **Simple Animation Movie** project built entirely using basic **HTML**! This p
 
 ## Priview
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/eb44b3a4-52d4-4db6-9ef1-f813df9b9f2a)
 
 ---
 
