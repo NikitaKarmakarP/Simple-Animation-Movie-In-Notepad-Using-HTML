@@ -20,6 +20,9 @@ A **Simple Animation Movie** project built entirely using basic **HTML**! This p
 
 ## Priview
 
+![Uploading image.png…]()
+
+---
 
 ## 🚀 How to View the Animation
 
